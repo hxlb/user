@@ -1,0 +1,12 @@
+{
+  "consul" : "127.0.0.1:8500",
+  "server_name":"com.hxlb.srv.user",
+  "server_version":"latest",
+  "mysql" : {
+    "host" : "192.168.0.111",
+    "port" : "3306",
+    "user" : "mytestroot",
+    "password" : "mytestroot",
+    "database" : "shopping"
+  }
+}
